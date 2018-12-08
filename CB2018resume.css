@@ -1,0 +1,9 @@
+.navigation {
+  background:url(images/bckgrd1.jpg);
+  height: 800px;
+}
+h1{
+	background-color: transparent;
+	size: 15px;
+	color: green;
+}
